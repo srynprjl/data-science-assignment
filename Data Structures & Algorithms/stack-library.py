@@ -1,0 +1,11 @@
+import array
+stack = array.array('i', [])
+stack.append(10)
+stack.append(20)
+stack.append(30)
+stack.append(40)
+stack.append(50)
+print(stack)
+print(f"Popped Item: {stack.pop()}")
+print(f"Top: {stack[-1]}")
+print(stack)
