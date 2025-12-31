@@ -2,15 +2,15 @@
 
 ## Library
 
-[Stack](./stack-library.py)
-[Queue](./queue-library.py)
-[Graph](./graph-library.py)
-[Heap](./heap-library.py)
+[Stack](./stack-library.py) <br />
+[Queue](./queue-library.py) <br />
+[Graph](./graph-library.py) <br />
+[Heap](./heap-library.py) <br />
 
 ## Scratch Implementation
 
-[Stack](./stack-scratch.py)
-[Queue](./queue-scratch.py)
-[Graph](./graph-scratch.py)
-[Tree](./tree-scratch.py)
-[Linked List](./ll-scratch.py)
+[Stack](./stack-scratch.py) <br />
+[Queue](./queue-scratch.py) <br />
+[Graph](./graph-scratch.py) <br />
+[Tree](./tree-scratch.py) <br />
+[Linked List](./ll-scratch.py) <br />
